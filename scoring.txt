@@ -11,6 +11,6 @@ Hard/Firm Drop: 2x Distance
  T-wist Triple: 1600
    Clean Sweep: 3000
 
- Back-to-Back: Points * 1.5
-        Chain: Amount * 50
+  Back-to-Back: Points * 1.5
+         Chain: Amount * 50
 
