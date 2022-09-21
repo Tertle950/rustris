@@ -8,7 +8,7 @@
   [ ] next piece
 [ ] rotation
   [ ] different rotation systems https://tetris.wiki/Super_Rotation_System https://tetris.wiki/Arika_Rotation_System
-  [ ] flips on pentomino mode, a la Pokemon Tetris
+  [ ] flips on pentomino mode, a la Pokemon T*tris
 [ ] falling
   [ ] not falling immediately (toggleable)
   [ ] 20g
