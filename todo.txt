@@ -1,0 +1,30 @@
+[ ] grid 10w 22t (24t, 2 hidden lines at the top)
+[ ] pieces
+  [ ] maybe even pentominos?
+  [ ] will spawn in a mysterious place only known as The Vanish Zone (the hidden lines)
+[ ] rotation
+  [ ] different rotation systems https://tetris.wiki/Super_Rotation_System https://tetris.wiki/Arika_Rotation_System
+  [ ] flips on pentomino mode, a la Pokemon Tetris
+[ ] falling
+[ ] line clears
+[ ] piece collision
+  [ ] kicks https://www.four.lol/srs/kicks-overview
+    [ ] tetrio 180 kicks https://www.reddit.com/r/Tetris/comments/h84yf0/this_is_how_180_kicks_work_in_tetrio/
+  [ ] notice spins
+
+---
+
+[ ] sounds
+  [ ] sound packs, from nullpo tetrio ltris etc
+  [ ] og sounds
+[ ] music
+
+---
+
+[ ] multiplayer
+  [ ] JUSt getting two people to connect in the first place, first things first.
+  [ ] garbage lines
+    [ ] garbage future displayed in background
+  [ ] garbage pieces a la Magical Tetris Challenge
+    [ ] pentominos come in CLUTCH here!
+  [ ] both players can use different themes
