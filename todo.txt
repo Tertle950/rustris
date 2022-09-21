@@ -1,30 +1,58 @@
+--- GAMEPLAY BASICS --- //I consider this enough to complete my goal.
+
 [ ] grid 10w 22t (24t, 2 hidden lines at the top)
 [ ] pieces
   [ ] maybe even pentominos?
   [ ] will spawn in a mysterious place only known as The Vanish Zone (the hidden lines)
+  [ ] 7 / 14 bag randomization
+  [ ] next piece
 [ ] rotation
   [ ] different rotation systems https://tetris.wiki/Super_Rotation_System https://tetris.wiki/Arika_Rotation_System
   [ ] flips on pentomino mode, a la Pokemon Tetris
 [ ] falling
+  [ ] not falling immediately (toggleable)
+  [ ] 20g
+  [ ] ghost piece
+  [ ] delayed piece locking
 [ ] line clears
 [ ] piece collision
   [ ] kicks https://www.four.lol/srs/kicks-overview
     [ ] tetrio 180 kicks https://www.reddit.com/r/Tetris/comments/h84yf0/this_is_how_180_kicks_work_in_tetrio/
   [ ] notice spins
+[ ] hold piece
 
----
+--- AESTHETIC BASICS ---
 
+[ ] backgrounds
+  [ ] change with level
+[ ] piece graphic
+[ ] piece clear graphic
 [ ] sounds
+  [ ] playing sounds
   [ ] sound packs, from nullpo tetrio ltris etc
   [ ] og sounds
 [ ] music
+  [ ] playing music
+  [ ] og music
 
----
+--- MODES ---
+
+[ ] modes
+  [ ] marathon, sprint, ultra
+  [ ] retro (no hold piece, barely any delayed piece locking)
+  [ ] Rule Changer
+    [ ] Time Travel Rule Changer - slow transition from modern to retro
+    [ ] Gimmick Rule Changer - fun and challenging gimmicks
+    [ ] Gensokyo Rule Changer - my own take on Touhoumino :)
+
+--- YO IMAGINE? ---
 
 [ ] multiplayer
   [ ] JUSt getting two people to connect in the first place, first things first.
+  [ ] Inevitable bug squashing!
+  [ ] Rollback netcode!?!?
   [ ] garbage lines
     [ ] garbage future displayed in background
-  [ ] garbage pieces a la Magical Tetris Challenge
+  [ ] garbage *pieces* a la Magical T*tris Challenge
     [ ] pentominos come in CLUTCH here!
-  [ ] both players can use different themes
+  [ ] both players can use different themes and soundpaks
