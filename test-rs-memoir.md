@@ -1,3 +1,6 @@
+# RIP test.rs
+## 2022-Chicken
+```
 fn main() { // I WAS PROMISED NO BOILERPLATE!!! WHAT DO YOU MEAN fn main() {???
     let x = "Hello";
     {
@@ -7,3 +10,7 @@ fn main() { // I WAS PROMISED NO BOILERPLATE!!! WHAT DO YOU MEAN fn main() {???
     }
     println!("{} World!",x); // Prints "Hello" for x, now that we're outside that block.
 }
+```
+"Goodbye World... Hello Heaven!"
+
+She was a caring, *completely calm* soul, taken 2 soon.
