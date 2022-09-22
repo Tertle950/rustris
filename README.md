@@ -7,7 +7,8 @@ _...does_ it have a greater focus on aesthetics, sound, and multiple modes?
 
 ## Dependencies and Compilation
 I don't have much of an idea of how Rust and Wasm work, but I think you need
-```rustup, rustc, cargo
+```
+rustup, rustc, cargo
 wasm-pack
 npm
 ```
