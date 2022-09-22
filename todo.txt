@@ -57,3 +57,6 @@
   [ ] garbage *pieces* a la Magical T*tris Challenge
     [ ] pentominos come in CLUTCH here!
   [ ] both players can use different themes and soundpaks
+
+
+BONUS LINK: https://tetris.wiki/Category:Official_Tetris_games
