@@ -14,6 +14,4 @@ npm
 ```
 at least.
 
-How do you compile it?
-
-...idunno yet
+Compile it by running `wasm-pack build` inside the `rustris/` folder.
